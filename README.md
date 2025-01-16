@@ -1,4 +1,4 @@
-#🧮 JavaScript Calculator
+# 🧮 JavaScript Calculator
 
 ### A visually appealing and fully functional Calculator built using HTML, CSS, and JavaScript. This project demonstrates the implementation of basic arithmetic operations with a sleek and modern user interface.
 
@@ -31,3 +31,6 @@ HTML: Structure of the calculator layout and buttons.
 CSS: Styling for the calculator interface, including button hover effects and layout adjustments.
 
 JavaScript: Core logic for evaluating mathematical expressions and handling button interactions.
+
+
+![Image](https://github.com/user-attachments/assets/dc072cb0-6721-4a72-9363-7a8197e24c4e)
